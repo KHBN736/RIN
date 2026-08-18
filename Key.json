@@ -15,14 +15,6 @@
         "your_device_id_here",
         "another_device_id_here"
       ]
-    },
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": [
-        "32c1589948b68001"
-      ],
-      "max_devices": 1
     }
   }
 }
