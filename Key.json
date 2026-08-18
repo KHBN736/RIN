@@ -10,8 +10,10 @@
   "keys": {
     "DP-VIP-101": {
       "status": "approved",
-      "expiry_date": "2028-12-31",
-      "hwid": [],
+      "expiry_date": "2102-12-11",
+      "hwid": [
+        "32c1589948b68001"
+      ],
       "max_devices": 100
     },
     "DP-XRM8XX": {
