@@ -23,8 +23,9 @@
       "status": "approved",
       "expiry_date": "2099-12-31",
       "hwid": [
-        "ANY"
-      ]
+        "32c1589948b68001"
+      ],
+      "max_devices": 1
     }
   }
 }
