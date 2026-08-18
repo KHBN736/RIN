@@ -23,14 +23,6 @@
         "32c1589948b68001"
       ],
       "max_devices": 1
-    },
-    "DP-L3KFQ5": {
-      "status": "approved",
-      "max_devices": 10000,
-      "expiry_date": "2034-08-18",
-      "hwid": [
-        "32c1589948b68001"
-      ]
     }
   }
 }
