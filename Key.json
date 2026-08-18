@@ -25,7 +25,7 @@
       "max_devices": 1
     },
     "DP-L3KFQ5": {
-      "status": "approved",
+      "status": "banned",
       "max_devices": 10000,
       "expiry_date": "2034-08-18",
       "hwid": [
