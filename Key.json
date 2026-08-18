@@ -10,11 +10,11 @@
   "keys": {
     "DP-VIP-101": {
       "status": "approved",
-      "expiry_date": "2026-12-31",
+      "expiry_date": "2028-12-31",
       "hwid": [
-        "your_device_id_here",
-        "another_device_id_here"
-      ]
+        "32c1589948b68001"
+      ],
+      "max_devices": 100
     }
   }
 }
