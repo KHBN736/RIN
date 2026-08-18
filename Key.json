@@ -13,6 +13,14 @@
       "expiry_date": "2028-12-31",
       "hwid": [],
       "max_devices": 100
+    },
+    "DP-XRM8XX": {
+      "status": "approved",
+      "max_devices": 100,
+      "expiry_date": "2028-08-21",
+      "hwid": [
+        "32c1589948b68001"
+      ]
     }
   }
 }
