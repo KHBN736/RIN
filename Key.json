@@ -15,6 +15,14 @@
         "32c1589948b68001"
       ],
       "max_devices": 100
+    },
+    "DP-8OFUGW": {
+      "status": "approved",
+      "max_devices": 100,
+      "expiry_date": "2026-08-18",
+      "hwid": [
+        "32c1589948b68001"
+      ]
     }
   }
 }
